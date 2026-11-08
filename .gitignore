@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# VS Code test requests containing credentials
+test_api.http
+
+# SQLite database
+db.sqlite3
+
+# React dependencies and build files
+frontend/node_modules/
+frontend/dist/
